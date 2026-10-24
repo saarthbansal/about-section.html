@@ -1,0 +1,10 @@
+html.body{
+    background: black;
+}
+.about{
+    background: brown;
+    border-radius: 0.5rem;
+}
+.card{
+    border-bottom: 8px solid orange;
+}
